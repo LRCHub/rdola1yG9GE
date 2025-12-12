@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "フロンティアローカス (Re:arrange ver.)",
+  "base_artist": "AZKi",
+  "createdAt": "2025-12-12T20:48:15.544012Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "フロンティアローカス",
+      "artist": "AZKi",
+      "has_synced": false,
+      "path": "select/pl_01_フロンティアローカス_AZKi.txt"
+    }
+  ]
+}
